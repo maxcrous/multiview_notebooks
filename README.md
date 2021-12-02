@@ -3,7 +3,7 @@
 
 ## Multiview notebooks
 This is a collection of educational notebooks on multi-view geometry and computer vision.
-Subjects covered in these notebooks include
+Subjects covered in these notebooks include:
 
 - Camera calibration
 - Perspective projection
