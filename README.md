@@ -26,7 +26,7 @@ If one is interested in running the notebooks locally, I highly recommend using 
 docker build -t multiview_notebooks .
 
 # Start a jupyter lab which can be opened in the browser
-docker run -it --rm -p 8888:8888 my-image jupyter-lab --ip=0.0.0.0 --port=8888
+docker run -it --rm -p 8888:8888 multiview_notebooks jupyter-lab --ip=0.0.0.0 --port=8888
 ```
 After starting the jupyter lab, the notebooks can be found in the home directory.   
 For the source of the Dockerfile, see [this repository](https://github.com/maxcrous/ipyvolume_g2opy_notebooks)
