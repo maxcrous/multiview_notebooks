@@ -36,3 +36,5 @@ For the source of the Dockerfile, see [this repository](https://github.com/maxcr
 <p align="center">
 <img src="images/triangulation.gif" width="800" alt="Triangulation">
 </p>
+For more examples, see [this video on youtube.](
+https://www.youtube.com/watch?v=mt9LZVy9G2g)
