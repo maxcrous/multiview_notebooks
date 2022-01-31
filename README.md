@@ -37,8 +37,10 @@ For more examples, see [this video on youtube](https://www.youtube.com/watch?v=m
 
 <p align="center">
 <img src="images/triangulation.gif" width="800" alt="Triangulation">
-</p>
-
-<p align="center">
+<br>
+<br>
+<br>
+<br>
+<br>
 <img src="images/pnp.gif" width="800" alt="Perspective n Point">
 </p>
