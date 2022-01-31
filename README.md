@@ -31,7 +31,7 @@ docker run -it --rm -p 8888:8888 multiview_notebooks jupyter-lab --ip=0.0.0.0 --
 After starting the jupyter lab, the notebooks can be found in the home directory.   
 For the source of the Dockerfile, see [this repository](https://github.com/maxcrous/ipyvolume_g2opy_notebooks)
 
-## Example of a visualization
+## Examples of visualizations
 For more examples, see [this video on youtube](https://www.youtube.com/watch?v=mt9LZVy9G2g) 
 
 
