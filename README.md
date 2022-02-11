@@ -12,9 +12,12 @@ Subjects covered in these notebooks include:
 - Perspective-n-point (PnP) algorithm
 - Levenberg–Marquardt optimization 
 - Epipolar geometry
-- Relative poses from stereo views (w. fundamental matrix)
+- Relative cam 2 pose from stereo views w. fundamental matrix
+- Relative cam 2 pose from stereo views w. homography 
 - Bundle adjustment
 - Structure from motion
+
+**Note** Notebook 5 is working but not as tidy as the rest (yet). This notebook covers the Faugeras method to infer relative pose from a homography. 
 
 ## How to run 
 The notebooks can be run in the browser by clicking the binder badge 
