@@ -12,8 +12,8 @@ Subjects covered in these notebooks include:
 - Perspective-n-point (PnP) algorithm
 - Levenberg–Marquardt optimization 
 - Epipolar geometry
-- Relative cam 2 pose from stereo views w. fundamental matrix
-- Relative cam 2 pose from stereo views w. homography 
+- Relative 2nd cam pose from stereo views w. fundamental matrix
+- Relative 2nd cam pose from stereo views w. homography 
 - Bundle adjustment
 - Structure from motion
 
